@@ -1,0 +1,204 @@
+Uri: https://fonts.googleapis.com/css2?family=Blinker:wght@300;400;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,900&display=swap
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Russo+One&display=swap
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/blinker/v13/cIf4MaFatEE-VTaP_ImHRGE.ttf
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\s\blinker\v13\cIf4MaFatEE-VTaP_ImHRGE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/blinker/v13/cIf4MaFatEE-VTaP_IWDRGE.ttf
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\s\blinker\v13\cIf4MaFatEE-VTaP_IWDRGE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/blinker/v13/cIf4MaFatEE-VTaP_JWERGE.ttf
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\s\blinker\v13\cIf4MaFatEE-VTaP_JWERGE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/blinker/v13/cIf4MaFatEE-VTaP_PGFRGE.ttf
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\s\blinker\v13\cIf4MaFatEE-VTaP_PGFRGE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/blinker/v13/cIf9MaFatEE-VTaPxCk.ttf
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\s\blinker\v13\cIf9MaFatEE-VTaPxCk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsH-yA.ttf
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\s\russoone\v14\Z9XUDmZRWg6M1LvRYsH-yA.ttf
+Content Type: font/ttf
+
+Uri: https://upfrontprotocol.io/
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\index.htm
+Content Type: text/html
+
+Uri: https://upfrontprotocol.io/assets/img/arrow-down.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/arrow-up.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/bg-dapp-1.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\bg-dapp-1.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/bg-dapp-bt.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\bg-dapp-bt.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/bg-footer.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\bg-footer.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/clip-path.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\clip-path.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/Discord.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\Discord.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/doc.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\doc.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-add-2.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-add-2.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-add.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-add.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-arrow-down.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-check.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-check.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-clock.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-clock.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-close.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-close.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-copy.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-copy.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-question1.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-question1.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-search.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-search.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-subtract.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-subtract.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-tranfer-1.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-tranfer-1.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/icon-tranfer.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\icon-tranfer.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/light.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\light.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/line.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\line.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/line1.png
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\line1.png
+Content Type: image/png
+
+Uri: https://upfrontprotocol.io/assets/img/telegram.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/twitter.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/assets/img/youtube.svg
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\assets\img\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://upfrontprotocol.io/favicon.ico
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://upfrontprotocol.io/logo.png
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\logo.png
+Content Type: image/png
+
+Uri: https://upfrontprotocol.io/manifest.json
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\manifest.json
+Content Type: application/json
+
+Uri: https://upfrontprotocol.io/_next/static/34LpAbkvDUjPVbuZqhv9Y/_buildManifest.js
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\_next\static\34LpAbkvDUjPVbuZqhv9Y\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://upfrontprotocol.io/_next/static/34LpAbkvDUjPVbuZqhv9Y/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\_next\static\34LpAbkvDUjPVbuZqhv9Y\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://upfrontprotocol.io/_next/static/chunks/framework-9910fad42761648c.js
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\_next\static\chunks\framework-9910fad42761648c.js
+Content Type: application/javascript
+
+Uri: https://upfrontprotocol.io/_next/static/chunks/main-1433a257acbcf361.js
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\_next\static\chunks\main-1433a257acbcf361.js
+Content Type: application/javascript
+
+Uri: https://upfrontprotocol.io/_next/static/chunks/pages/index-6eed9dc41f67b23f.js
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\_next\static\chunks\pages\index-6eed9dc41f67b23f.js
+Content Type: application/javascript
+
+Uri: https://upfrontprotocol.io/_next/static/chunks/pages/_app-12a4a97db3b08b76.js
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\_next\static\chunks\pages\_app-12a4a97db3b08b76.js
+Content Type: application/javascript
+
+Uri: https://upfrontprotocol.io/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://upfrontprotocol.io/_next/static/chunks/webpack-5395ae2793d39c46.js
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\_next\static\chunks\webpack-5395ae2793d39c46.js
+Content Type: application/javascript
+
+Uri: https://upfrontprotocol.io/_next/static/chunks/worker-chunks-fb74f49ddd57de22.js
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\_next\static\chunks\worker-chunks-fb74f49ddd57de22.js
+Content Type: application/javascript
+
+Uri: https://upfrontprotocol.io/_next/static/css/999cd98b240b1106.css
+File Name: C:\Downloaded Web Sites\upfrontprotocol.io\_next\static\css\999cd98b240b1106.css
+Content Type: text/css
+
